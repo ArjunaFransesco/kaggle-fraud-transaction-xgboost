@@ -1,0 +1,8 @@
+{
+  "model": "XGBoost_Cost_Sensitive_Classifier",
+  "ROC_AUC": 1.0,
+  "PR_AUC": 1.0,
+  "F1_Score": 1.0,
+  "Fraud_Count": 83,
+  "Legit_Count": 5917
+}
